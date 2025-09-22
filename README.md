@@ -1,6 +1,4 @@
-# Snakes and Ladders
-
-> Class Diagram
+# Class Diagram
 
 ```mermaid
 classDiagram
